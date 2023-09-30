@@ -1,0 +1,10 @@
+C:\Users\emirc\source\repos\Rehber19\Rehber19\bin\Debug\Rehber19.exe.config
+C:\Users\emirc\source\repos\Rehber19\Rehber19\bin\Debug\Rehber19.exe
+C:\Users\emirc\source\repos\Rehber19\Rehber19\bin\Debug\Rehber19.pdb
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.csproj.AssemblyReference.cache
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.Form1.resources
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.Properties.Resources.resources
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.csproj.GenerateResource.cache
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.csproj.CoreCompileInputs.cache
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.exe
+C:\Users\emirc\source\repos\Rehber19\Rehber19\obj\Debug\Rehber19.pdb
